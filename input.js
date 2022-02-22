@@ -1,5 +1,10 @@
 let connection;
 
+const msg = "Say: ";
+const hello = "Hey there! lets play!"
+const victory = "I am the greatest!"
+const rematch = "Grr! I want a rematch!"
+const leave = "I gotta sign off!"
 
 const setupInput = function (conn) {
   connection = conn;
@@ -26,6 +31,14 @@ const handleUserInput = function(key) {
   connection.write('Move: left');
   if (key === 'd')
   connection.write('Move: right');
+  if (key === 'z')
+  connection.write(msg + hello);
+  if (key === 'x')
+  connection.write(msg + victory);
+  if (key === 'c')
+  connection.write(msg + rematch);
+  if (key === 'v')
+  connection.write(msg + leave);
 };
 
 module.exports = {
