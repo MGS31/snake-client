@@ -5,6 +5,11 @@ const connect = function() {
     host: 'localhost',
     port: 50541
   });
+    conn.on('connect', () => {
+        console.log('You successfully connected to the game server!');
+        conn.write('Name: MGS');
+    });
+
     conn.on('data', (data) => {
     conn.end();
   });
