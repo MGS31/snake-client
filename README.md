@@ -8,11 +8,13 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Let's see it in Action!"](#<img width="561" alt="Screenshot 2022-02-23 at 11 15 08 AM" src="https://user-images.githubusercontent.com/88684369/155362092-e3f8b0dc-f173-4a44-8f7b-c70712053cce.png">)
+"Let's see it in Action!"
+<img width="561" alt="Screenshot 2022-02-23 at 11 15 08 AM" src="https://user-images.githubusercontent.com/88684369/155362092-e3f8b0dc-f173-4a44-8f7b-c70712053cce.png">
 
-!["Don't forget to add your username!"](#<img width="573" alt="Screenshot 2022-02-23 at 11 20 12 AM" src="https://user-images.githubusercontent.com/88684369/155362110-240d4d51-0814-421a-a121-8a451cb6a28a.png">)
+"Don't forget to add your username!"
+<img width="573" alt="Screenshot 2022-02-23 at 11 20 12 AM" src="https://user-images.githubusercontent.com/88684369/155362110-240d4d51-0814-421a-a121-8a451cb6a28a.png">
 
-
+ 
 ## Getting Started
 
 - Follow steps inside the snek server repo to run the server side
