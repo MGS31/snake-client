@@ -1,12 +1,12 @@
-const { connect } = require('./client');
+
 const { MOVE_UP_KEY, MOVE_DOWN_KEY, MOVE_RIGHT_KEY, MOVE_LEFT_KEY } = require('./constants');
 
 let connection;
 
 const msg = "Say: ";
-const hello = "Hey there! lets play!"
+const hello = "Hey!"
 const victory = "I am the greatest!"
-const rematch = "Grr! I want a rematch!"
+const rematch = "I want a rematch!"
 const leave = "I gotta sign off!"
 
 const setupInput = function (conn) {
