@@ -7,12 +7,10 @@ This is simply a multiplayer take on the genre.
 Before you can run this client, you will need to be running the server side which you can download and install from here. 
 
 ## Final Product
+<img width="558" alt="Screenshot 2022-02-23 at 12 01 14 PM" src="https://user-images.githubusercontent.com/88684369/155368954-c832d976-8782-4f96-9276-482977c88a51.png">
 
-!["Let's see it in Action!"](<img width="561" alt="Screenshot 2022-02-23 at 11 15 08 AM" src="https://user-images.githubusercontent.com/88684369/155363456-c6e8b0dc-fec1-4c70-81a8-2d497541a447.png">)
+ <img width="567" alt="Screenshot 2022-02-23 at 12 01 23 PM" src="https://user-images.githubusercontent.com/88684369/155368992-892db478-0bb1-4e28-af39-94fad1680459.png">
 
-!["Don't forget to add your username!"](<img width="573" alt="Screenshot 2022-02-23 at 11 20 12 AM" src="https://user-images.githubusercontent.com/88684369/155363524-e387300a-c136-4c46-bdfb-c92dd7436c22.png">)
-
- 
 ## Getting Started
 
 - Follow steps inside the snek server repo to run the server side
