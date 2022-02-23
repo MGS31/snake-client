@@ -8,9 +8,9 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Let's see it in Action!"](<img width="561" alt="Screenshot 2022-02-23 at 11 15 08 AM" src="https://user-images.githubusercontent.com/88684369/155363083-76d65763-4e02-47c1-bb9e-05a6f7d361ba.png">)
+!["Let's see it in Action!"](<img width="561" alt="Screenshot 2022-02-23 at 11 15 08 AM" src="https://user-images.githubusercontent.com/88684369/155363456-c6e8b0dc-fec1-4c70-81a8-2d497541a447.png">)
 
-!["Don't forget to add your username!"](<img width="573" alt="Screenshot 2022-02-23 at 11 20 12 AM" src="https://user-images.githubusercontent.com/88684369/155363120-125b57fa-4619-432e-8cd6-eb60dd15f999.png">)
+!["Don't forget to add your username!"](<img width="573" alt="Screenshot 2022-02-23 at 11 20 12 AM" src="https://user-images.githubusercontent.com/88684369/155363524-e387300a-c136-4c46-bdfb-c92dd7436c22.png">)
 
  
 ## Getting Started
