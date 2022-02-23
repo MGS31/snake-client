@@ -7,7 +7,7 @@ const connect = function() {
   const conn = net.createConnection({
     host: IP,
     port: PORT
-  });
+  })
     conn.on('connect', () => {
         console.log('You successfully connected to the game server!');
         conn.write(`Name: ${name}`);
